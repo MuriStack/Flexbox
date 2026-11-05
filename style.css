@@ -258,3 +258,21 @@ footer p {
     background-color: #3d7758;
 }
 
+
+.apresentacao {
+    border-radius: 14px;
+}
+
+.apresentacao img,
+.card img {
+    border-radius: 10px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.botao,
+.etiqueta {
+    border-radius: 6px;
+}
