@@ -55,7 +55,7 @@ header {
     color: white;
     text-decoration: none;
     padding: 10px 15px;
-    border-radius: 5px;
+    
 }
 
 .menu a:hover {
@@ -72,7 +72,7 @@ header {
     margin: 25px auto;
     max-width: 1080px;
     background-color: #e8efe7;
-    border-radius: 10px;
+   
 }
 
 .apresentacao h1 {
@@ -82,7 +82,7 @@ header {
 
 .apresentacao img {
     width: 380px;
-    border-radius: 8px;
+   
 }
 
 .botao {
@@ -92,7 +92,7 @@ header {
     background-color: #244d39;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    
 }
 
 .botao:hover {
@@ -131,14 +131,14 @@ header {
     padding: 15px;
     border: 2px solid #b1c8b5;
     background-color: #ffffff;
-    /* Cantos arredondados removidos */
+    
 }
 
 .card img {
     width: 216px;
     height: 140px;
     margin-bottom: 12px;
-    /* Cantos arredondados removidos */
+   
 }
 
 .card h3 {
@@ -170,7 +170,7 @@ header {
     color: #ffffff;
     font-size: 11px;
     font-weight: bold;
-    /* Cantos arredondados removidos */
+    
 }
 
 .informacoes {
@@ -191,8 +191,8 @@ header {
     min-width: 190px;
     padding: 15px;
     border: 1px solid #b1c8b5;
-    border-radius: 8px;
     background-color: #e8efe7;
+    
 }
 
 table {
@@ -219,6 +219,7 @@ th {
     flex-direction: column;
     align-items: center;
     text-align: center;
+
 }
 
 .contato p {
@@ -246,11 +247,11 @@ footer p {
     right: 20px;
     bottom: 20px;
     padding: 10px 12px;
-    border-radius: 6px;
     background-color: #244d39;
     color: white;
     text-decoration: none;
     font-size: 13px;
+    
 }
 
 .voltar-topo:hover {
