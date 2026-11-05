@@ -253,10 +253,6 @@ footer p {
     background-color: #3d7758;
 }
 
-/* =========================================
-   NOVA SEÇÃO: CARDS DA EQUIPE DE ESTUDANTES
-   ========================================= */
-
 .cards-equipe {
     display: flex;
     flex-direction: row;
@@ -281,9 +277,9 @@ footer p {
 .card-estudante img {
     width: 100px;
     height: 100px;
-    border-radius: 50%; /* Deixa a imagem redonda */
+    border-radius: 50%;
     margin-bottom: 15px;
-    background-color: #e8efe7; /* Cor de fundo caso a imagem demore a carregar */
+    background-color: #e8efe7;
     object-fit: cover;
 }
 
